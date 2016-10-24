@@ -22,3 +22,6 @@ Siguiendo la estructura convencional del patrón se diseñó el diagrama de clas
 Se diseñó el diagrama de interacción (no estricto) para mostrar el posible flujo que podrán tener las peticiones dentro de la aplicación.
 
 ![Alt Diagrama de interacción](imagenes/interaccion.jpg "Diagrama de interacción")
+
+
+> Ivan Dario Contreras P. y Jorge Ivan Alonso E. 2016.
